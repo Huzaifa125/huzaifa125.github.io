@@ -1,18 +1,48 @@
-.navbar{
+
+.header{
+
+
+}
+.navbar-brand{
+    
+	font-family:;
 
 }
 
 .nav-bar{
 
-	background:#E2EAAA;
-	padding: 40px;
-	margin:40px;
+	background:#2b2513;
+	padding:20px;
+	margin:0px;
 	font-family:verdana;
+    color:#FFFFFF;
 
 }
-.navbar-logo{
+.p-one{
 
-	
+ 	color:white;
+	font-family:verdana;
+	font-size: 20px;
+    text-align:center;
+    background:#2b2513;
+
+}
+
+.p-two{
+
+    color:tomato;
+	font-family:verdana;
+	font-size: 20px;
+    text-align:center;
+ 
+}
+
+.p-three{
+
+    color:tomato;
+	font-family:fantasy;
+	font-size: 20px;
+    text-align:center;
 
 }
 
