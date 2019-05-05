@@ -1,23 +1,59 @@
 
-.header{
+.bg-pic-sentence{
 
-
-}
-.navbar-brand{
-    
-	font-family:;
+	color:#FFFFFF;
 
 }
+.navbar{
 
-.nav-bar{
-
-	background:#2b2513;
-	padding:20px;
-	margin:0px;
+	font-size:1.2em;
+	background-color:#0E1638;
 	font-family:verdana;
-    color:#FFFFFF;
+    color:#FFF;
+    padding:1% 0;
+    border:0;
+    margin-bottom:0;
+    border-radius:0;
+  	opacity:0.9;
 
 }
+
+.navbar:hover{
+
+	opacity:1;
+}
+
+.text{
+
+	text-align: center;
+
+}
+
+
+.para{
+
+	padding-bottom:95px;
+
+}
+.main-image{
+
+	font-size: 20px;
+	font-family:verdana;
+
+
+}
+
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navber-nav .active a:hover{
+
+	color:#FFFFFF;
+	background-color:#0E1638;
+
+
+}
+
+
+
 .p-one{
 
  	color:white;
